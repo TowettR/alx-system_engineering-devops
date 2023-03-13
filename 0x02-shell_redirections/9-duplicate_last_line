@@ -1,2 +1,2 @@
 #!/bin/bash
-yy -n
+tail -n 1 iacta >>iacta
